@@ -2,7 +2,6 @@
   "recommendations": [
     "eamodio.gitlens",
     "editorconfig.editorconfig",
-    "hashicorp.terraform",
     "DavidAnson.vscode-markdownlint"
   ]
 }
